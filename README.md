@@ -21,21 +21,9 @@ By the end of this tutorial, you will be able to deploy your application to dyna
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
-The target audience for this module is developers who want to use Webpack in an existing application, particularly those with an interest in applying the principles of Webpack to large existing React applications. A basic knowledge of React is desirable.
+To fully benefit from the coverage included in this course a basic knowledge of React is desirable.
 ### Technical Requirements
-This course has the following software requirements:<br/>
-This course has the following software requirements:
-●	Any text editor/IDE (Sublime Text/Atom/Webstorm/Visual Studio etc.)
-●	Node and NPM (https://nodejs.org/en/)
-●	Yarn (optional - https://yarnpkg.com/lang/en/)
-This course has been tested on the following system configuration:
-
-●	OS: Mac OS Sierra/High Sierra
-●	Processor: Intel Core i7/i5
-●	Memory: 16GB/8GB
-●	Hard Disk Space: 300MB
-Video Card: Intel HD Graphics/Dedicated GPU
+This course has the following software requirements:<br/><ul><li>Any text editor/IDE (Sublime Text/Atom/Webstorm/Visual Studio etc.)</li><li>Node and NPM (https://nodejs.org/en/)</li><li>Yarn (optional - https://yarnpkg.com/lang/en/)</li></ul><br>This course has been tested on the following system configuration:<br><ul><li>OS: Mac OS Sierra/High Sierra</li><li>Processor: Intel Core i7/i5</li><li>Memory: 16GB/8GB</li><li>Hard Disk Space: 300MB</li><li>Video Card: Intel HD Graphics/Dedicated GPU</li></ul>
 
 ## Related Products
 * [Hands-on Webpack for React Development [Video]](https://www.packtpub.com/application-development/hands-webpack-react-development-video?utm_source=github&utm_medium=repository&utm_campaign=9781789139808)
