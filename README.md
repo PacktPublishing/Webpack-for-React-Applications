@@ -32,3 +32,7 @@ This course has the following software requirements:<br/><ul><li>Any text editor
 
 * [Deploying Jenkins to the Cloud with DevOps Tools [Video]](https://www.packtpub.com/networking-and-servers/deploying-jenkins-cloud-devops-tools-video?utm_source=github&utm_medium=repository&utm_campaign=9781788839778)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788472203">https://packt.link/free-ebook/9781788472203 </a> </p>
